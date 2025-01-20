@@ -1,4 +1,19 @@
-p.class {
+p.red {
     background-color: rgb(238, 17, 57);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#one {
+    font-size: 36px;
+    color: rgb(0, 0, 232);
+}
+
+#two {
+    background-color: rgb(0, 255, 68);
+    font-size: 24px;
+    font-weight: bold;
+
+}
+p.big {
+    font-size: 24px;
 }
